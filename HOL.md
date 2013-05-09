@@ -29,7 +29,7 @@ The following is required to complete this hands-on lab:
 
 - [Visual Studio Express 2012 for Web][1] or higher
 - [Visual Studio Express 2012 for Desktop][2] or higher
-- [Windows Azure Tools for Microsoft Visual Studio 1.8][3]
+- [Windows Azure Tools for Microsoft Visual Studio 2.0][3]
 - [SQL Server Management Studio 2012 Express Edition][4] or higher
 - Access to a **SQL Database** account with a server created
 - **SQL Database Firewall** enabled for machine running this lab
