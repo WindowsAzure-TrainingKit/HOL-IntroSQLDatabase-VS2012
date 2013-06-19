@@ -960,7 +960,7 @@ In this task, you will create a class that inherits from the **SQLDatabaseConnec
 #### Task 5 - Connecting to SQL Database Using Entity Framework ####
 You have connected in three different ways to the database on SQL Database. The last technology that you are going to try will be **Entity Framework**. You will notice that the class implementation for this demo will not inherit from the **SQLDatabaseConnectionDemo** class because when using **Entity Framework**, you do not have to manage Connections and Commands; those are administered by the underlying technology and you do not have to worry about them.
 
-1. Open the **App.config** file and change the connection string to point to your SQL Database, and enter the password to connect using the test user created earlier in this lab.
+1. Open the **App.config** file and change the connection string to point to your SQL Database, and enter the password to connect using the test user created earlier in this lab. Close the file after saving it.
 	
 	>**Note:** This step is required because **Entity Framework** gets the connection settings from the configuration file.
  
