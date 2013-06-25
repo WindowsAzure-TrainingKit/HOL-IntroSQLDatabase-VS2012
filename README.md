@@ -1,4 +1,4 @@
-﻿# Introduction to Windows Azure SQL Database - for Visual Studio 2012 #
+﻿# Introduction to Windows Azure SQL Database #
 
 ## Hands-on Lab ##
 
